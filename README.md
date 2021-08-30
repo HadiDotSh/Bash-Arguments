@@ -6,7 +6,7 @@
 <p>Simply past this line in your shell :</p>
 
 ```bash
-https://github.com/HadiDotSh/Bash-Arguments
+git clone https://github.com/HadiDotSh/Bash-Arguments
 ```
 
 ### add it to your scripts
